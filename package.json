@@ -1,0 +1,28 @@
+{
+  "name": "tsed-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss-compile": "node-sass -rw assets/scss -o css",
+    "watch": "npm run scss-compile",
+    "sync": "browser-sync start --server --files \"index.html css/*.css\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsed-alex/rsschool-cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsed-alex/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/tsed-alex/rsschool-cv#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "node-sass": "^4.12.0",
+    "scss-compile": "^0.1.7",
+    "webpack": "^3.10.0"
+  }
+}
