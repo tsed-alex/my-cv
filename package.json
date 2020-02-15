@@ -11,14 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsed-alex/rsschool-cv.git"
+    "url": "git+https://github.com/tsed-alex/my-cv.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tsed-alex/rsschool-cv/issues"
-  },
-  "homepage": "https://github.com/tsed-alex/rsschool-cv#readme",
+  "author": "tsed-alex",  
+  "homepage": "https://github.com/tsed-alex/my-cv#readme",
   "devDependencies": {
     "browser-sync": "^2.23.5",
     "node-sass": "^4.12.0",
