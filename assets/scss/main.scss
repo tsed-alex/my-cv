@@ -46,7 +46,7 @@ body{
             display: block;
         }
 
-        &__left {
+        &__left-column {
             background: rgb(61, 60, 65);
             position: relative;
             flex-basis: 350px;
@@ -88,7 +88,7 @@ body{
             }
         }
 
-        &__right {
+        &__right-column {
             position: relative;
             background: rgb(235, 235, 235);
             flex-shrink: 2;
