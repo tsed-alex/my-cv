@@ -2355,7 +2355,7 @@ body {
     .wrapper .container__left-column {
       background: #3d3c41;
       position: relative;
-      flex-basis: 350px;
+      flex-basis: 250px;
       flex-shrink: 1;
       padding-top: 25px;
       padding-left: 25px;
