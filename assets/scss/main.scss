@@ -145,6 +145,7 @@ body{
                 &__right {
                     flex-basis: 50%;
                     margin-left: auto;
+                    padding-bottom: 16px;
 
                     p {
                         padding-bottom: 10px;
@@ -217,6 +218,14 @@ body{
             &__item {
                 padding-bottom: 5px;
             }
+        }
+
+        .work-experience-list{
+          margin: 0;
+          padding-left: 24px;
+
+          font-size: 15px;
+          line-height: 1.4;
         }
     }
 
