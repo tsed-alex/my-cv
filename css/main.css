@@ -2423,7 +2423,8 @@ body {
             right: -24px; }
         .wrapper .container__right-column .tab-col__right {
           flex-basis: 50%;
-          margin-left: auto; }
+          margin-left: auto;
+          padding-bottom: 16px; }
           .wrapper .container__right-column .tab-col__right p {
             padding-bottom: 10px; }
       .wrapper .container__right-column:after {
@@ -2472,6 +2473,11 @@ body {
       font-size: 16px; }
       .wrapper .container .skills-list__item {
         padding-bottom: 5px; }
+    .wrapper .container .work-experience-list {
+      margin: 0;
+      padding-left: 24px;
+      font-size: 15px;
+      line-height: 1.4; }
   .wrapper .container:last-of-type .container__left:after,
   .wrapper .container:last-of-type .container__right:after {
     border: none; }
