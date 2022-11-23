@@ -16,7 +16,7 @@
   "author": "tsed-alex",
   "homepage": "https://github.com/tsed-alex/my-cv#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.10",
     "node-sass": "^5.0.0",
     "scss-compile": "^0.1.7",
     "webpack": "^5.26.3"
